@@ -20,5 +20,9 @@
 ## License
   * This project is open-source and available under the MIT License.
 
+## Credits
+This project uses the following open-source libraries:
+* [JNativeHook](https://github.com/kamyu126/jnativehook) - Used for global keyboard and mouse listening under the LGPL v3 License.
+
 ## Sidenote
   * I am a beginner programmer and this is my first project that I am putting out there. Any feedback would be greatly appreciated.
